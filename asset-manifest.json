@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rosgateway_client_sample/static/css/main.733e90d4.css",
+    "main.js": "/rosgateway_client_sample/static/js/main.2f35301b.js",
+    "static/js/453.d3eae7fd.chunk.js": "/rosgateway_client_sample/static/js/453.d3eae7fd.chunk.js",
+    "service-worker.js": "/rosgateway_client_sample/service-worker.js",
+    "index.html": "/rosgateway_client_sample/index.html",
+    "main.733e90d4.css.map": "/rosgateway_client_sample/static/css/main.733e90d4.css.map",
+    "main.2f35301b.js.map": "/rosgateway_client_sample/static/js/main.2f35301b.js.map",
+    "453.d3eae7fd.chunk.js.map": "/rosgateway_client_sample/static/js/453.d3eae7fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.733e90d4.css",
+    "static/js/main.2f35301b.js"
+  ]
+}
